@@ -1,0 +1,27 @@
+{
+  "name": "recipes",
+  "version": "0.0.1",
+  "description": "Healthy recipes.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicayet/recipes.git"
+  },
+  "keywords": [
+    "recipe",
+    "healthy",
+    "cooking"
+  ],
+  "author": "Jessica Jet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessicayet/recipes/issues"
+  },
+  "homepage": "https://github.com/jessicayet/recipes#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
